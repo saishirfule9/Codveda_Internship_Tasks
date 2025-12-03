@@ -13,6 +13,7 @@ It performs basic operations like addition, subtraction, multiplication and divi
 • Shows result for each operation  
 • Simple and easy structure for learning
 
+
 ## How to run
 1. Open the project.
 2. Go to src folder.
