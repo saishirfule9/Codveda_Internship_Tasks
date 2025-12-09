@@ -1,34 +1,52 @@
-# Codveda_Internship_Tasks
-This Repo is my Internship at Codveda Technologies contains Task data related that assigned to me for compilation..
+# Level 3 Tasks – Codveda Internship
 
+This folder contains all **Level 3 tasks** completed during my Java Development Internship at **Codveda Technologies**.  
+These tasks focus on advanced Java programming, including database connectivity, multithreading, networking, and data structures.
 
-# Library Management System with JDBC
+---
 
-This is a JDBC based library system built using Java and MySQL.  
-It supports adding books, users, issuing books, returning books and viewing records.
+## Completed Tasks
 
-## Features
-• Add or remove books  
-• Register users  
-• Issue and return books  
-• View all transactions  
-• Connected to MySQL database using JDBC
+### **1. Library Management System with JDBC**
+A console-based system to manage books, users, and borrow/return transactions using **Java and MySQL (JDBC)**.
 
-## Database tables
-• books  
-• users  
-• transactions  
+**Features:**
+- Add, view, borrow, and return books  
+- Manage users and track transactions  
+- Connects to a MySQL database for persistent storage  
 
-Each table uses AUTO_INCREMENT primary keys.
+**Skills used:** Object-Oriented Programming, JDBC, SQL, CRUD operations, console input/output  
 
-## How to run
-1. Set up MySQL.
-2. Create database named librarydb.
-3. Update JDBC URL, username and password in the code.
-4. Run Main.java.
+[Folder → `level3-library`](level3-library)
 
-## Learning points
-• JDBC connection  
-• CRUD operations  
-• Database design  
-• SQL queries  
+---
+
+### **2. Multithreaded Chat Application**
+A console-based chat application allowing multiple clients to chat simultaneously using **Java Sockets and multithreading**.
+
+**Features:**
+- Multiple clients can connect to the server  
+- Broadcast messages to all connected clients  
+- Clients can join and leave dynamically  
+
+**Skills used:** Java Networking, Threads, Sockets, Console input/output, Object-Oriented Programming  
+
+[Folder → `level3-chat`](level3-chat)
+
+---
+
+### **3. Binary Search Tree (BST) Implementation**
+A Java program implementing a **Binary Search Tree** with node insertion, deletion, searching, and traversals.
+
+**Features:**
+- Insert, delete, and search nodes in the BST  
+- Perform in-order, pre-order, and post-order traversals  
+- Handles edge cases like deleting non-existent nodes  
+
+**Skills used:** Object-Oriented Programming, Recursion, Trees, Console input/output, Algorithm design  
+
+[Folder → `level3-bst`](level3-bst)
+
+---
+
+Each task has its own folder with **source code and README**, making the project well-organized, easy to navigate, and professional for showcasing your internship work.
