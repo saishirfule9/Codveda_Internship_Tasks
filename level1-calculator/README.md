@@ -1,38 +1,29 @@
-# Codveda_Internship_Tasks
-This Repo is my Internship at Codveda Technologies contains Task data related that assigned to me for compilation..
-
-
-# Basic Calculator
+# Level 1 Task 1 – Basic Calculator
 
 This is a simple console based calculator built using Java.  
-It performs basic operations like addition, subtraction, multiplication and division.
+It performs basic arithmetic operations based on user input.
 
 ## Features
-• Takes input from the user  
-• Validates input  
-• Shows result for each operation  
-• Simple and easy structure for learning
 
-## How to run
-1. Open the project.
-2. Go to src folder.
-3. Run Main.java.
+• Addition  
+• Subtraction  
+• Multiplication  
+• Division  
+• Input validation  
+• Handling division by zero
 
+## How It Works
 
-## How to run (IDE)
-1. Open project in Eclipse or IntelliJ.
-2. Ensure package is com.codveda.calculator.
-3. Run Main.java.
-4. Use menu to test operations.
+The program asks the user to enter two numbers and choose an operation.  
+It then performs the calculation and prints the result.
 
+Division by zero is handled by checking the second number before performing the operation.
 
-## Notes
-- Handles invalid numeric input.
-- Prevents division by zero.
+## Skills Used
 
+• Methods in Java  
+• Conditionals  
+• Console input (Scanner)  
+• Basic error handling
 
-## Learning points
-• Working with console input  
-• Basic Java control flow  
-• Method usage  
-• Error handling  
+This is the first task of Level 1 in the Codveda Internship.
