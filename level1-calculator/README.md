@@ -1,21 +1,38 @@
-# Level 1 Tasks – Codveda Internship
+# Codveda_Internship_Tasks
+This Repo is my Internship at Codveda Technologies contains Task data related that assigned to me for compilation..
 
-This folder contains all Level 1 tasks completed as part of my Java Development Internship at Codveda Technologies.  
-Each task is built using core Java concepts and focuses on logic building, user interaction, and clean coding practices.
 
-## Completed Tasks
+# Basic Calculator
 
-### 1. Basic Calculator  
-A simple console based calculator that performs addition, subtraction, multiplication, and division.  
-Handles invalid operations and division by zero gracefully.
+This is a simple console based calculator built using Java.  
+It performs basic operations like addition, subtraction, multiplication and division.
 
-### 2. Number Guessing Game  
-A small game where the program generates a random number and the user tries to guess it.  
-Includes input validation, attempt limit, and feedback messages to guide the user.
+## Features
+• Takes input from the user  
+• Validates input  
+• Shows result for each operation  
+• Simple and easy structure for learning
 
-### 3. Factorial Using Recursion  
-A recursive implementation to compute the factorial of a number.  
-Handles edge cases such as factorial of zero and negative inputs.
+## How to run
+1. Open the project.
+2. Go to src folder.
+3. Run Main.java.
 
-Each task is placed in its own folder with source code and documentation.  
-This helps maintain a clean structure and makes the project easy to navigate.
+
+## How to run (IDE)
+1. Open project in Eclipse or IntelliJ.
+2. Ensure package is com.codveda.calculator.
+3. Run Main.java.
+4. Use menu to test operations.
+
+
+## Notes
+- Handles invalid numeric input.
+- Prevents division by zero.
+
+
+## Learning points
+• Working with console input  
+• Basic Java control flow  
+• Method usage  
+• Error handling  
