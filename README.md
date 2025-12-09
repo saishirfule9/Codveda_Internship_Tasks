@@ -1,29 +1,55 @@
-Level 1 Tasks – Codveda Internship
+# Level 1 Tasks – Codveda Internship
 
-This folder contains all Level 1 tasks completed as part of my Java Development Internship at Codveda Technologies.
+This folder contains all Level 1 tasks completed as part of my Java Development Internship at Codveda Technologies.  
 Each task focuses on improving problem solving, clean coding, and understanding core Java fundamentals.
 
-Completed Tasks
-1. Basic Calculator
+---
 
-A console based calculator that supports addition, subtraction, multiplication, and division.
-It also includes validation for incorrect inputs and handles division by zero safely.
+## Completed Tasks
 
-Skills used:
-User input handling, methods, conditionals.
+### **1. Basic Calculator**
+A console based calculator that supports:
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
 
-2. Number Guessing Game
+It includes validation for incorrect inputs and safely handles division by zero.
 
-A simple interactive game where the program generates a random number and the user tries to guess it.
-The program provides feedback such as “too high” or “too low” and also limits the number of attempts.
+**Skills used:**  
+- User input handling  
+- Methods  
+- Conditionals  
 
-Skills used:
-Random class, loops, conditionals, exception handling.
+---
 
-3. Factorial Using Recursion
+### **2. Number Guessing Game**
+A simple interactive game where:
+- The program generates a random number  
+- The user tries to guess the number  
+- Feedback is given such as **"too high"** or **"too low"**  
+- A limit is set on the number of attempts  
+- Invalid inputs are handled properly  
 
-A recursive method to compute the factorial of a given number.
-It also handles edge cases like factorial of zero and negative inputs.
+**Skills used:**  
+- Random class  
+- Loops  
+- Conditionals  
+- Exception handling  
 
-Skills used:
-Recursion, function design, edge case handling.
+---
+
+### **3. Factorial Using Recursion**
+A recursive method that:
+- Calculates the factorial of a number  
+- Handles edge cases like factorial of zero  
+- Rejects negative numbers  
+
+**Skills used:**  
+- Recursion  
+- Function design  
+- Edge case handling  
+
+---
+
+Each task has its own folder with source code and documentation to maintain a clean and easy-to-read structure.
