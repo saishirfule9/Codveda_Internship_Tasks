@@ -11,15 +11,12 @@ The purpose of this repo is to show my progress during the internship and how I 
 * Source code for all assigned tasks
 * Task descriptions and objectives
 * My solutions with explanations
-* Screenshots and output samples
 * Notes and learning points from each task
 
 ## Tech Stack Used
 
 * Java
 * Spring Boot
-* REST API
-* MySQL
 * Maven
 * Git and GitHub
 
@@ -39,7 +36,7 @@ Codveda_Internship_Tasks/
 1. Clone the repo
 
 ```
-git clone https://github.com/your-username/Codveda_Internship_Tasks.git
+git clone https://github.com/saishirfule9/Codveda_Internship_Tasks.git
 ```
 
 2. Open any task folder
