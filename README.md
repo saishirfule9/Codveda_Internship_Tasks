@@ -1,37 +1,49 @@
-# Simple Banking Application
+# Level 2 Tasks – Codveda Internship
 
-This project is a beginner friendly console based banking system built in Java.  
-It allows you to create accounts, deposit money, withdraw money and check balances.
+This folder contains all **Level 2 tasks** completed during my Java Development Internship at **Codveda Technologies**.  
+These tasks focus on intermediate Java concepts, object-oriented programming, file handling, and building simple console-based applications.
 
-## Features
-• Create a new bank account  
-• Deposit amount  
-• Withdraw amount  
-• Check account balance  
-• Store accounts in memory using ArrayList  
-• Simple and easy menu system  
+---
 
-## Folder structure
-level2-banking  
-└── src  
-    └── com.codveda.banking  
-        ├── Main.java  
-        ├── BankAccount.java  
-        └── BankService.java  
+## Completed Tasks
 
-## How to run
-1. Open the project in Eclipse or IntelliJ.  
-2. Run Main.java from the com.codveda.banking package.  
-3. Follow the menu options displayed in the console.  
+### **1. Employee Management System**
+A console-based system to manage employee records with CRUD operations:
 
-## Learning points
-• Working with classes and objects  
-• ArrayList to store multiple accounts  
-• Basic CRUD style operations  
-• Simple input handling and validation  
+- Add, view, update, and delete employees  
+- Uses an in-memory ArrayList to store employee data  
+- Demonstrates object-oriented programming and clean coding practices  
 
-## Next steps
-• Improve input validation  
-• Add option to view all accounts  
-• Add account number instead of searching by name  
-• Add transaction history (optional)
+**Skills used:** Classes, Objects, ArrayList, Methods, Conditionals, Loops
+
+[Folder → `level2-employee-management`](level2-employee-management)
+
+---
+
+### **2. File Handling (Read & Write)**
+A Java program to read a text file, process its contents, and write the results to another file:
+
+- Counts total lines and words in a file  
+- Writes processed results to an output file  
+- Handles exceptions like `FileNotFoundException` and `IOException`  
+
+**Skills used:** File I/O, Exception Handling, Loops, String Processing, Scanner
+
+[Folder → `level2-file-handling`](level2-file-handling)
+
+---
+
+### **3. Simple Banking Application**
+A console-based banking system allowing basic operations:
+
+- Deposit and withdraw money  
+- Check account balance  
+- Input validation for negative or invalid amounts  
+
+**Skills used:** Object-Oriented Programming, Methods, Conditionals, Loops, Scanner
+
+[Folder → `level2-banking`](level2-banking)
+
+---
+
+Each task has its own folder with **source code and README**, making the project structured, easy to navigate, and professional for showcasing your internship work.
