@@ -1,37 +1,28 @@
-# Simple Banking Application
+# Level 2 Task 3 – Simple Banking Application
 
-This project is a beginner friendly console based banking system built in Java.  
-It allows you to create accounts, deposit money, withdraw money and check balances.
+This is a console based banking system developed using Java.  
+It allows users to perform basic banking operations such as deposit, withdraw, and check balance.
 
 ## Features
-• Create a new bank account  
-• Deposit amount  
-• Withdraw amount  
-• Check account balance  
-• Store accounts in memory using ArrayList  
-• Simple and easy menu system  
 
-## Folder structure
-level2-banking  
-└── src  
-    └── com.codveda.banking  
-        ├── Main.java  
-        ├── BankAccount.java  
-        └── BankService.java  
+- Deposit money into account  
+- Withdraw money with balance check  
+- View current account balance  
+- Input validation for negative or invalid amounts  
 
-## How to run
-1. Open the project in Eclipse or IntelliJ.  
-2. Run Main.java from the com.codveda.banking package.  
-3. Follow the menu options displayed in the console.  
+## How It Works
 
-## Learning points
-• Working with classes and objects  
-• ArrayList to store multiple accounts  
-• Basic CRUD style operations  
-• Simple input handling and validation  
+1. User enters account details (name, number, initial balance).  
+2. Menu is displayed with options to deposit, withdraw, check balance, or exit.  
+3. The program performs the selected operation and shows updated balance.  
+4. The loop continues until the user chooses to exit.
 
-## Next steps
-• Improve input validation  
-• Add option to view all accounts  
-• Add account number instead of searching by name  
-• Add transaction history (optional)
+## Skills Used
+
+- Object-Oriented Programming  
+- Methods and Classes  
+- Conditionals and Loops  
+- User input via Scanner  
+- Basic error handling  
+
+This task is part of **Level 2 Tasks** in the Codveda Internship and demonstrates fundamental banking operations.
