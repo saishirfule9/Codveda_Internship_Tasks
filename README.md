@@ -5,7 +5,7 @@ The tasks are organized into three levels: **Level 1 (Basic), Level 2 (Intermedi
 Each task demonstrates hands-on coding skills, problem solving, and Java programming concepts.
 
 ---
-dsa
+
 ## Table of Contents
 
 - [Level 1 – Basic Tasks](#level-1-basic-tasks)  
